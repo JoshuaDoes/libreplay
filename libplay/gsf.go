@@ -5,7 +5,7 @@
 // then modified a bit by hand to add the new fields that were added after the move to gms from gsf
 // also look at https://github.com/microg/android_packages_apps_GmsCore/blob/master/play-services-core/src/main/protos-repo/checkin.proto
 
-package libreplay
+package libplay
 
 import (
 	fmt "fmt"
